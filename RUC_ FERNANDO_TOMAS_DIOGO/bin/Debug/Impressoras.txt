@@ -1,0 +1,24 @@
+**Impressoras**
+
+Impressora 1: 
+Designaçao: 3
+Quantidade: 3
+Stock Critico: 3
+Tecnologia: 3
+Formatos Compativeis: 3
+Interfaces: 3
+Plataformas Compativeis: 3
+Peso: 3
+Dimensões: 3
+--------------------------------------
+Impressora 2: 
+Designaçao: 4
+Quantidade: 4
+Stock Critico: 4
+Tecnologia: 4
+Formatos Compativeis: 4
+Interfaces: 4
+Plataformas Compativeis: 4
+Peso: 4
+Dimensões: 4
+--------------------------------------

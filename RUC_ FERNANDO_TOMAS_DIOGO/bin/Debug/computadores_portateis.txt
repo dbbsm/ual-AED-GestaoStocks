@@ -1,0 +1,24 @@
+** Computadores **
+
+PORTATIL 1: 
+Designaçao: 3
+Quantidade: 3
+Stock Critico: 3
+Processador: 3
+Velocidade_GHz: 3
+Memoria_RAM: 3
+Disco Rigido: 3
+Tamanho do Écran: 3
+Sistema Operativo: 3
+--------------------------------------
+PORTATIL 2: 
+Designaçao: 5
+Quantidade: 5
+Stock Critico: 5
+Processador: 5
+Velocidade_GHz: 5
+Memoria_RAM: 5
+Disco Rigido: 5
+Tamanho do Écran: 5
+Sistema Operativo: 5
+--------------------------------------
